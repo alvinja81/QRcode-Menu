@@ -142,5 +142,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Your Name - [Gmail](mailto:amiirjahanshahi@gmail.com)
-
-Project Link: [https://github.com/yourusername/restaurant-menu](https://github.com/yourusername/restaurant-menu)
